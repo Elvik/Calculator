@@ -9,7 +9,7 @@
 body {
     font-family: sans-serif;
     /* background-image: linear-gradient( to bottom right, rgba(79,51,176,1.0),rgba(210,53,165)); */
-    background-color: rgb(255, 166, 0);
+    background-color: #94abff;
 }
 
 a {
@@ -64,8 +64,8 @@ a {
 }
 
 #display {
-    border-left: 3px solid rgb(255, 166, 0);
-    border-bottom: 1px solid rgb(255, 166, 0);
+    border-left: 3px solid #94abff;
+    border-bottom: 1px solid #94abff;
     margin: 0 10px;
     height: 150px;
     width: auto;
